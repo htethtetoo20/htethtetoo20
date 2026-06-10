@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I am a software developer based in Osaka, Japan, originally from Myanmar.  
-I previously worked as a Java Developer and PHP Developer in Malaysia, and I am currently transitioning into Artificial Intelligence and Machine Learning.
+I previously worked as a Java Developer in Malaysia, and I am currently transitioning into Artificial Intelligence and Machine Learning.
 
 I enjoy building real-world systems by combining backend engineering with modern AI technologies such as Deep Learning and Natural Language Processing.
 
